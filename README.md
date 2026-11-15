@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Bonjour, moi c'est Fatima !
 
-<!--
-**alichefatima/alichefatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Étudiante en **Informatique – Systèmes Embarqués et Interactifs** à l'Université Paris 8  
+🤖 Passionnée par l'**intelligence artificielle**, les systèmes embarqués et l'IoT  
+🔗 Particulièrement intéressée par la convergence entre ces domaines : **l'IA embarquée (Edge AI)**  
+🌱 Toujours en train d'apprendre, d'expérimenter et de construire
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alichefatima&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alichefatima&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
