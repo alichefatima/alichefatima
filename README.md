@@ -6,8 +6,4 @@
 🌱 Toujours en train d'apprendre, d'expérimenter et de construire
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alichefatima&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alichefatima&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=alichefatima)](https://github.com/stats-organization/github-stats-extended)
